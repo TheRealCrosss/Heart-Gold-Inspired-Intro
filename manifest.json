@@ -1,0 +1,23 @@
+{
+  "id": "heart_gold_inspired_into",
+  "name": "Heart Gold Inspired Into",
+  "version": "1.0.0",
+  "author": "CROSSS",
+  "description": "Standalone HeartGold-inspired intro, Bell Tower sequence, title screen, Ho-Oh fly-in, and intro music for Pok\u00e9mon Gold Recomp. Does not require or modify CROSSS UI.",
+  "profile": "overhaul",
+  "entry": "main.lua",
+  "category": "UI",
+  "priority": 120,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "affects_link": false,
+  "permissions": [
+    "engine_internals"
+  ],
+  "api": 2,
+  "games": [
+    "gold"
+  ],
+  "incompatible": []
+}
